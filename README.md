@@ -704,8 +704,6 @@ For questions or issues:
 
 <div align="center">
 
-### Made with ❤️ by the DevOps Team
 
-**Give us a ⭐ if you found this helpful!**
 
 </div>
